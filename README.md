@@ -40,8 +40,8 @@ Beberapa implementasi yang terdapat dalam project ini:
 
 ## 👤 Author
 
-Nama: Anthonius Raffael Pangaribuan
-NIM : A11.2024.15812
+Nama: Anthonius Raffael Pangaribuan<br>
+NIM : A11.2024.15812<br>
 Universitas Dian Nuswantoro
 
 ---
